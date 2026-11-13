@@ -21,6 +21,7 @@ abstract: >-
 keywords:
   - research software
   - R simulation
+doi: 10.5281/zenodo.24194475
 license: MIT
 version: '0.1.0'
 date-released: '2026-11-13'
