@@ -1,6 +1,7 @@
 
 # RSM_assignment
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24194475.svg)](https://doi.org/10.5281/zenodo.24194475)
 <div align="center">
   <img src="img/UT_Logo_0072_Black_EN.png" alt="University of Twente logo">
 </div>
