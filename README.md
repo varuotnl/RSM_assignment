@@ -5,6 +5,8 @@
 <div align="center">
   <img src="img/UT_Logo_0072_Black_EN.png" alt="University of Twente logo">
 </div>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![R](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
 
 ## Overview
 
