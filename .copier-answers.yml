@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.0.3
+_src_path: https://github.com/delapazruiz/fairRcode.git
+authors: Iowner
+citation: true
+code_of_conduct: true
+community: false
+contact_email: varun.pahilaj@utwente.nl
+copyright_holder: Iowner
+copyright_year: 2026
+owner: Iowner
+software_license: MIT License
+software_name: RSM_assignment
+software_purpose: The purpose of RSM_assignment is ...A training project to demonstrate
+    reproducible research software management using R, including code organization,
+    version control, documentation, and archiving, with applications to healthcare
+    research.
