@@ -26,7 +26,7 @@ The simulation is intended solely for educational purposes and to demonstrate re
 
 ## Input Data and Outputs
 
-# Inputs
+### Inputs
 
 The analysis uses synthetic data generated directly within code/analysis.R. No external dataset is required.
 
@@ -44,7 +44,7 @@ Random seed: 123, ensuring repeatable random number generation under the same R 
 
 These probabilities are hypothetical and are not derived from clinical evidence.
 
-# Analysis
+### Analysis
 
 The R script:
 
@@ -56,7 +56,7 @@ Calculates the proportion of patients receiving follow-up CT investigations acco
 
 Produces a bar chart comparing the two groups.
 
-# Outputs
+### Outputs
 
 The analysis generates the following file:
 
@@ -64,7 +64,7 @@ outputs/followup_CT.png — a bar chart showing the simulated percentage of pati
 
 The simulated patient-level dataset is created in memory during execution and is not currently saved as a separate file.
 
-# Reproducibility
+### Reproducibility
 
 The analysis uses base R and a fixed random seed (set.seed(123)). The project includes renv.lock and the associated renv configuration files to support reproducibility of the software environment.
 
